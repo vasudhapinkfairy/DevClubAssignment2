@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<h1>THIS IS HEADING 1</h1>
+<h2>THIS IS HEADING 2</h2>
+<h3>THIS IS HEADING 3</h3>
+<h4>THIS IS HEADING 4</h4>
+<h5>THIS IS HEADING 5</h5>
+<h6>THIS IS HEADING 6</h6>
+<br>
+<p>THIS IS A PARAGRAPH.THIS IS A PARAGRAPH.THIS IS A PARAGRAPH.</p>
+<br>
+<p>THIS IS A LINE BREAK<BR>THIS IS A LINE BREAK<BR>THIS IS A LINE BREAK<BR></P>
+<BR>
+<P>THIS IS AN ORDERED LIST</P>
+<BR>
+<PRE>
+
+1.Item 1
+2.Item 2
+3.Item 3
+4.Item 4
+5.Item 5
+
+</prev>
+<p>THIS IS AN UNORDERED LIST</p>
+<pre>
+
+•	Item 1
+•	Item 2
+•	Item 3
+•	Item 4
+•	Item 5
+
+</pre>
+<p><b>THIS IS BOLD</b></p>
+<p><i>THIS IS ITALIC</b></p>
+</body>
+</html>
+
